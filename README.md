@@ -45,12 +45,12 @@
 ![segmented_object_4](https://user-images.githubusercontent.com/58580347/133883819-58aa2fe0-b300-4bc9-97c4-84ef593d7bf8.jpg)
 ![segmented_object_2](https://user-images.githubusercontent.com/58580347/133883821-6f2022c3-a259-4fa8-935c-68fda1076b4b.jpg)
 
-    - Logo and call to action image is cropped manually from the image using OpenCV.
+            - Logo and call to action image is cropped manually from the image using OpenCV.
     
     
    ![web_logo_1](https://user-images.githubusercontent.com/58580347/133883829-ceb9a9eb-ce4d-4974-96b4-003bc950dbb1.jpg)
 
-     - Text recognition of Logo using pytesseract gives the company name.
+            - Text recognition of Logo using pytesseract gives the company name.
                     - **OUTPUT:**  ERICSSON
    ![web_button](https://user-images.githubusercontent.com/58580347/133883856-08ee7aba-2d4e-45cf-8192-9bb09a092e0f.jpg)
 
