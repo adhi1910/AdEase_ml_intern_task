@@ -13,7 +13,9 @@
 
 1. Part 1:
     - Scraping of an display ad from the website is done using **BeautifulSoup** and **Selenium**.
-    - Output -> An image
+    
+    - Output -> An image![web_logo_1](https://user-images.githubusercontent.com/58580347/133883535-6c2ab5a1-5afd-49db-8fb4-048a9e866883.jpg)
+
 
 2. Part 2:
     - Extraction of text from the image using **Pytesseract**.
