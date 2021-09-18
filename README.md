@@ -47,6 +47,7 @@
 
     - Logo and call to action image is cropped manually from the image using OpenCV.
     
+    
    ![web_logo_1](https://user-images.githubusercontent.com/58580347/133883829-ceb9a9eb-ce4d-4974-96b4-003bc950dbb1.jpg)
 
      - Text recognition of Logo using pytesseract gives the company name.
