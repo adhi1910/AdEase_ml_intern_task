@@ -13,8 +13,10 @@
 
 1. Part 1:
     - Scraping of an display ad from the website is done using **BeautifulSoup** and **Selenium**.
-    
-    - Output -> An image![web_logo_1](https://user-images.githubusercontent.com/58580347/133883535-6c2ab5a1-5afd-49db-8fb4-048a9e866883.jpg)
+    ![web_scrapping full page](https://user-images.githubusercontent.com/58580347/133883623-73971b0a-362e-4676-9b07-57a93b23db78.png)
+    - Output -> An image
+    ![web_scrapping](https://user-images.githubusercontent.com/58580347/133883634-d6290d5d-80fd-466d-8571-ce5626e05073.jpg)
+
 
 
 2. Part 2:
