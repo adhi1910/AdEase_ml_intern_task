@@ -49,7 +49,7 @@
 
             - Text recognition of Logo using pytesseract gives the company name.
                     - **OUTPUT:**  ERICSSON
-                    ![web_button](https://user-images.githubusercontent.com/58580347/133883856-08ee7aba-2d4e-45cf-8192-9bb09a092e0f.jpg)
+   ![web_button](https://user-images.githubusercontent.com/58580347/133883856-08ee7aba-2d4e-45cf-8192-9bb09a092e0f.jpg)
 
     
 
