@@ -15,6 +15,7 @@
     - Scraping of an display ad from the website is done using **BeautifulSoup** and **Selenium**.
     ![web_scrapping full page](https://user-images.githubusercontent.com/58580347/133883623-73971b0a-362e-4676-9b07-57a93b23db78.png)
     - Output -> An image
+    
     ![web_scrapping](https://user-images.githubusercontent.com/58580347/133883634-d6290d5d-80fd-466d-8571-ce5626e05073.jpg)
 
 
@@ -22,6 +23,19 @@
 2. Part 2:
     - Extraction of text from the image using **Pytesseract**.
             - Pytesseract is an OCR tool in python for text recognition.
+            - **OUTPUT:** s
+                          s
+
+                          ERICSSON
+
+                          In India, Ericsson has
+                          trained more than
+                          21,000 young people
+                          in digital skills across
+                          40 Learning Centres
+                          
+                          Readmore > ne
+            
     - Object detection from the image using pre-trained **mask r_cnn model**.
             - There are many deep learning model available for object detection like R-CNN, Fast R-CNN, YOLO, SSD, etc.
     - Logo and call to action image is cropped manually from the image using OpenCV.
