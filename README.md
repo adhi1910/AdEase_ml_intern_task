@@ -44,6 +44,7 @@
 ![segmented_object_1](https://user-images.githubusercontent.com/58580347/133883816-3c772bd1-ab51-4663-afa7-c247c215241a.jpg)
 ![segmented_object_4](https://user-images.githubusercontent.com/58580347/133883819-58aa2fe0-b300-4bc9-97c4-84ef593d7bf8.jpg)
 ![segmented_object_2](https://user-images.githubusercontent.com/58580347/133883821-6f2022c3-a259-4fa8-935c-68fda1076b4b.jpg)
+
     - Logo and call to action image is cropped manually from the image using OpenCV.
     
    ![web_logo_1](https://user-images.githubusercontent.com/58580347/133883829-ceb9a9eb-ce4d-4974-96b4-003bc950dbb1.jpg)
