@@ -14,5 +14,5 @@
         - Scraping of an display ad from the website is done using **BeautifulSoup** and **Selenium**.
 
 2. Part 2:
-        - 
+        - s
 
