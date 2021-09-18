@@ -23,7 +23,8 @@
 2. Part 2:
     - Extraction of text from the image using **Pytesseract**.
             - Pytesseract is an OCR tool in python for text recognition.
-            - **OUTPUT:** s
+            - **OUTPUT:** 
+                          s
                           s
 
                           ERICSSON
