@@ -25,6 +25,6 @@
 
 NOTE: 
     1. In text recognition, there are some extra features detected like symbols.
-    2. Although manual cropping is not feasible, I could not find any ways to detect, so I am forced to choose manual. In my opinion, other options can be template matching (not advisable for all ads), training using the data containing logos, using pre-trained API (like google cloud vision API etc.)
+    2. Although manual cropping is not feasible, I could not find any ways to detect, so I am forced to choose manual. In my opinion, other options can be template matching (not advisable for all ads), training using the data containing logos, using pre-trained API (like google cloud vision API etc)
 
 
