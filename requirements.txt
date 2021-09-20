@@ -1,0 +1,9 @@
+Python Packages used:
+
+1. requests
+2. BeautifulSoup
+3. Selenium
+4. cv2 (Open-CV)
+5. pytesseract
+6. pixellib
+7. NumPy
