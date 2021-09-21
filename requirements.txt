@@ -1,9 +1,9 @@
 Python Packages used:
 
-1. requests
-2. BeautifulSoup
-3. Selenium
-4. cv2 (Open-CV)
-5. pytesseract
-6. pixellib
-7. NumPy
+1. requests>=2.24.0
+2. bs4>=4.9.1 (BeautifulSoup)
+3. Selenium>=3.141.0
+4. cv2>=4.5.2
+5. pytesseract>=0.3.8
+6. pixellib>=0.4.0
+7. NumPy>=1.18.5
