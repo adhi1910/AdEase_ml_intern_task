@@ -1,4 +1,4 @@
-# AdEase_ml_intern_task
+# Webscraping_of_ads
 
 ### Task:
 1. Write a Python program to scrape display ads from a webpage.
